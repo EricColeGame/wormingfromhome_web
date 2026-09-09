@@ -6,7 +6,15 @@
     "description": "Explore Worming from Home with beginner guides, controls, task tips, upgrades, achievements, gameplay mechanics, and the latest Steam details.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "achievements": "Achievements",
+    "scores": "Scores",
+    "mechanics": "Mechanics",
+    "reviews": "Reviews",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Worming from Home Wiki — Guides, Achievements & Tips",
@@ -382,7 +390,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -418,5 +425,33 @@
     "buildGuide": "Upgrades & Stocks",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Worming from Home Guides & Walkthroughs",
+    "overviewDescription": "Master controls, work mechanics, and secret office tricks in Worming from Home with beginner guides and advanced tips."
+  },
+  "release": {
+    "overviewTitle": "Worming from Home Release Information",
+    "overviewDescription": "Stay updated on Worming from Home release dates, official demo versions, upcoming full game updates, and launch news."
+  },
+  "achievements": {
+    "overviewTitle": "Worming from Home Achievements Guide",
+    "overviewDescription": "Comprehensive guide to unlocking all Steam achievements and 100% wormchievements in Worming from Home."
+  },
+  "scores": {
+    "overviewTitle": "Worming from Home High Scores & Grades",
+    "overviewDescription": "Tips and strategies for achieving S rank performance reviews, high scores, and speedrun records in Worming from Home."
+  },
+  "mechanics": {
+    "overviewTitle": "Worming from Home Gameplay Mechanics",
+    "overviewDescription": "Deep dive into remote work mechanics, spreadsheet multitasking, video call survival, and office physics in Worming from Home."
+  },
+  "reviews": {
+    "overviewTitle": "Worming from Home Reviews & Impressions",
+    "overviewDescription": "Player impressions, comedic highlights, gameplay analyses, and review roundups for Worming from Home."
+  },
+  "community": {
+    "overviewTitle": "Worming from Home Community & Secrets",
+    "overviewDescription": "Explore community discussions, Reddit tips, hidden Easter eggs, and secret discoveries in Worming from Home."
   }
 }
