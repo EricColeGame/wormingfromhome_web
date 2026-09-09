@@ -1,1 +1,457 @@
-{}
+{
+  "site": {
+    "name": "Worming from Home Wiki",
+    "shortName": "Worming from Home",
+    "tagline": "攻略ガイド・実績・操作方法・アップグレード",
+    "description": "初心者向けガイド、キーボード操作法、オフィス業務のコツ、デスク強化、Steam実績、ゲーム物理メカニクスなど最新情報を網羅したWorming from Home攻略Wiki。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって制作・運営されています。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "release": "リリース情報",
+    "achievements": "実績",
+    "scores": "スコア評価",
+    "mechanics": "ゲーム仕様",
+    "reviews": "レビュー",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Worming from Home Wiki — 攻略ガイド・実績・操作のコツ",
+      "description": "初心者向けガイド、キーボード操作法、オフィス業務のコツ、デスク強化、Steam実績、ゲーム物理メカニクスなど最新情報を網羅したWorming from Home攻略Wiki。"
+    },
+    "hero": {
+      "eyebrow": "爆笑ラグドール物理リモートワークシミュレーター",
+      "title": "Worming from Home Wiki",
+      "description": "在宅勤務のミミズとなってオフィス業務をこなし、ラグドール物理をマスターし、株式投資で資金を増やして出世街道を駆け上がろう。",
+      "stats": [
+        "444件のユーザーレビュー",
+        "98% 好評レビュー",
+        "31個のSteam実績",
+        "2026年9月4日 配信開始"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "攻略ガイド一覧",
+      "tertiaryCta": "Steamでプレイ",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Worming from Home 入門ガイド",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ラグドール物理のコツ、キーボード上の移動方法、初日の基本業務をスムーズに終わらせる必須知識を解説。"
+        },
+        {
+          "number": "2",
+          "title": "操作方法と物理",
+          "description": "机の上でミミズを器用に這わせ、狙ったキーを的確に叩いて予期せぬ物理挙重に対処する方法を学びます。"
+        },
+        {
+          "number": "3",
+          "title": "オフィス業務と日課",
+          "description": "終業時刻を迎える前に、表計算ソフトへの入力、上司からの緊急電話、日々の書類整理を手際よく処理。"
+        },
+        {
+          "number": "4",
+          "title": "昇進とアップグレード",
+          "description": "稼いだ給与をデスク設備や便利アイテムに投資し、作業環境を向上させて役員昇進を目指しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目のガイド＆リファレンス",
+      "quickLinks": [
+        "初心者ガイド",
+        "操作と物理挙動",
+        "表計算と日常業務",
+        "Steam全実績攻略"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "初日の在宅勤務シフトを生き残り、ミミズを自在に動かして毎日の課題をクリアするための基本知識。",
+          "href": "/guide/worming-from-home-beginner-guide"
+        },
+        {
+          "badge": "操作法",
+          "title": "操作と移動方法",
+          "description": "ラグドール物理の仕組み、キーボード上の正確な移動、マウス操作のテクニックを徹底解説。",
+          "href": "/guide/worming-from-home-controls-guide"
+        },
+        {
+          "badge": "メカニクス",
+          "title": "オフィス業務攻略",
+          "description": "表計算スプレッドシートの入力、上司からの電話対応、請求書の仕分け手順を分かりやすくガイド。",
+          "href": "/mechanics/worming-from-home-tasks-guide"
+        },
+        {
+          "badge": "キャリア",
+          "title": "昇進・キャリアアップ",
+          "description": "社内評価を高めてデスク設備を拡充し、エグゼクティブ職への昇進を果たすための完全手順。",
+          "href": "/mechanics/worming-from-home-promotion-guide"
+        },
+        {
+          "badge": "実績",
+          "title": "Steam実績チェックリスト",
+          "description": "全31個のSteam実績の解除条件と、机の上に隠された秘密要素をすべて見つけるための攻略情報。",
+          "href": "/achievements/worming-from-home-achievements-guide"
+        },
+        {
+          "badge": "更新情報",
+          "title": "パッチノート＆最新ニュース",
+          "description": "最新パッチ、バランス調整、開発者からのアナウンスメントをリアルタイムにお届け。",
+          "href": "/release/worming-from-home-updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Worming from Homeとは？",
+      "paragraphs": [
+        "『Worming from Home』は、Zach NorthropとMason Sabharwalが開発したコミカルな物理演算シミュレーションゲームです。プレイヤーはリモートワークを行う一匹のミミズとなり、雑然としたデスクの上で過酷な企業業務に立ち向かいます。予測不能なラグドール物理に翻弄されながら、キーボードを這い回り、緊急メールを打ち、複雑な表計算を片付け、上司からのオンライン通話に対応します。",
+        "日々のデスクワークに加え、給与を運用できるダイナミックな株式市場、多数のデスクアクセサリーやコスメティックアイテム、31種類のSteam実績が用意されています。幹部への昇進を目指すもよし、机の上でハチャメチャな大騒ぎを起こすもよし。当Wikiでは役立つ攻略ガイドと操作手順を網羅しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Zach Northrop & Mason Sabharwal"
+        },
+        {
+          "label": "発売元",
+          "value": "Zach Northrop"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC (Steam / Windows / macOS)"
+        },
+        {
+          "label": "配信日",
+          "value": "2026年9月4日"
+        },
+        {
+          "label": "Steam評価",
+          "value": "98% 圧倒的に好評"
+        },
+        {
+          "label": "実績数",
+          "value": "31個のSteam実績"
+        },
+        {
+          "label": "ジャンル",
+          "value": "コメディ物理シミュレーター"
+        }
+      ],
+      "cta": "全ガイドを見る"
+    },
+    "explore": {
+      "title": "Worming from Home Wikiを探索",
+      "description": "初心者向けチュートリアル、操作解説、日常業務のコツ、昇進手順、全実績解除まで、リモートワーク生活を完全サポート。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Worming from Home Beginner Guide",
+          "description": "最初の1時間のプレイ体験、基本操作、業務サイクル、初心者が優先すべき行動を解説。序盤のミスを回避し確実にタスクを完了させる手順を伝授。",
+          "href": "/guide/worming-from-home-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ラグドール物理の挙動を掴み、机の上でミミズをスムーズに方向転換させる感覚を習得。"
+            },
+            {
+              "label": "2",
+              "detail": "ワークステーションにログインし、受信トレイの未読メールと午前のタスクを確認。"
+            },
+            {
+              "label": "3",
+              "detail": "キーボードのキーを頭突きして表計算ソフトのデータを入力し、請求書を処理。"
+            },
+            {
+              "label": "4",
+              "detail": "ビデオ通話を適宜ミュートし、様々なオフィス妨害を乗り切って17時までに退勤。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Worming from Home Tasks Guide",
+          "description": "表計算、メッセージ送受信、ビデオ通話、請求書整理など、遭遇する主要な業務タスクの達成目標と効率的な処理テクニックを解説。",
+          "href": "/mechanics/worming-from-home-tasks-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "スプレッドシート",
+              "detail": "セルを順に辿り、正確なキーボード頭突きで指定の数値を手際よく打ち込む。"
+            },
+            {
+              "label": "ビデオ通話",
+              "detail": "上司からの着信に即座に応答し、マイクのミュート状態を適切に切り替えて対応。"
+            },
+            {
+              "label": "電子メール",
+              "detail": "同僚からの重要メールに手早く返信を作成し、優先トピックを素早く処理。"
+            },
+            {
+              "label": "書類処理",
+              "detail": "承認済み支払い書類にスタンプを押し、締め切り前に書類を正しくファイリング。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Worming from Home Controls Guide",
+          "description": "移動、キーボード入力、カメラ視点変更、クリック操作、コントローラー設定をまとめた操作リファレンス。",
+          "href": "/guide/worming-from-home-controls-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "這い回り",
+              "detail": "WASDや左スティックで身体をくねらせて前進し、旋回しながら移動速度をキープ。"
+            },
+            {
+              "label": "タイピング",
+              "detail": "ミミズの頭や胴体を狙ったキーに叩きつけて文字や数字を正確に入力。"
+            },
+            {
+              "label": "クリック",
+              "detail": "カーソルをドラッグ＆タップしてアプリの起動、マイクの切り替え、タブ操作を実行。"
+            },
+            {
+              "label": "カメラ操作",
+              "detail": "視点を回転させて時計の残り時間、付箋のメモ、机の縁からの落下を防ぐ。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Worming from Home Promotion Guide",
+          "description": "キャリアアップの仕組みと、効率よく社内評価を上げて昇進するための優先項目を詳しく解説。",
+          "href": "/mechanics/worming-from-home-promotion-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "勤務初期は日々のノルマを着実に達成し、未完了のタスクを残さないように管理。"
+            },
+            {
+              "label": "2",
+              "detail": "貯めた給与をエルゴノミクス用品や反応の良いキーボードに投資して生産性を向上。"
+            },
+            {
+              "label": "3",
+              "detail": "余剰資金で株式を売買し、さらなる上位デスク機器の購入資金を調達。"
+            },
+            {
+              "label": "4",
+              "detail": "主要な業績目標をクリアしてシニア役職や幹部特典をアンロック。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Worming from Home Achievements Guide",
+          "description": "ストーリー進行に伴う実績から高難度チャレンジまで、全実績をカテゴリー別に分かりやすく整理したチェックリスト。",
+          "href": "/achievements/worming-from-home-achievements-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "優秀役員：全勤務日でSランク評価を獲得し、机の上の隠し要素をコンプリート。"
+            },
+            {
+              "label": "A",
+              "detail": "市場の覇者：株式投資で莫大な利益を上げ、最高級オフィス改装をすべて購入。"
+            },
+            {
+              "label": "B",
+              "detail": "模範社員：上司から一度も叱責を受けることなく5勤務日連続でクリア。"
+            },
+            {
+              "label": "C",
+              "detail": "初めての出勤：初回のリモートワークシフトにログインし無事に退勤する。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Worming from Home Updates",
+          "description": "公式ローンチ発表、パッチ修正、バランス調整、不具合修正、追加コンテンツの変更点をまとめた更新履歴。",
+          "href": "/release/worming-from-home-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "正式版",
+              "detail": "2026年9月4日にSteamにて正式配信開始。31個の実績とコントローラーに完全対応。"
+            },
+            {
+              "label": "修正",
+              "detail": "キー入力の当たり判定と机の当たり判定境界を改善する物理安定化パッチを適用。"
+            },
+            {
+              "label": "機能向上",
+              "detail": "UIのスケーリング設定、音量調整スライダー、マウス感度調整機能を追加。"
+            },
+            {
+              "label": "予定",
+              "detail": "ミニゲームの追加やデスクカスタマイズ拡張を盛り込んだ今後のアップデートを計画中。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Worming from Home Codes",
+          "description": "交換コードに関する検索に正確に回答。Steam単体ゲームのため引き換えコード機能はなく、全要素がゲーム内プレイで手に入ります。",
+          "href": "/codes/worming-from-home-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "コードなし",
+              "detail": "Steam版にはプロモーションコード制度がなく、すべてのアップグレードはプレイを通じて獲得します。",
+              "badge": "確認済み"
+            },
+            {
+              "label": "詐欺注意",
+              "detail": "非公式の外部コード生成サイトなどでSteamアカウントのログイン情報を入力しないでください。",
+              "badge": "セキュリティ"
+            },
+            {
+              "label": "最新情報",
+              "detail": "将来的なゲーム内イベント等は公式Discordや開発者アナウンスをご確認ください。",
+              "badge": "情報"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Worming from Home Gameplay Tips",
+          "description": "ラグドール物理の制御テクニック、業務の優先順位付け、アップグレードの効果的な活用法など実践的なヒント集。",
+          "href": "/guide/worming-from-home-gameplay-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リズム",
+              "detail": "慌てて暴れ回るのではなく、一定のリズムで体をくねらせることで入力ミスを防ぐ。"
+            },
+            {
+              "label": "優先順位",
+              "detail": "上司からの電話は大幅な減点につながるため、鳴ったら最優先で受話器を取る。"
+            },
+            {
+              "label": "株式運用",
+              "detail": "デスクトップ画面でテック株の値下がり時を見計らって購入し、手元資金を増やす。"
+            },
+            {
+              "label": "机の整理",
+              "detail": "キーボード周辺の障害物を片付けておき、ミミズがスムーズに移動できる導線を確保。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "Worming from Homeに関するよくある疑問への回答集。",
+      "items": [
+        {
+          "question": "Worming from Homeとはどんなゲームですか？",
+          "answer": "Zach NorthropとMason Sabharwalが手掛けた物理演算コメディシミュレーションです。プレイヤーはリモートワークを行うミミズとなり、キーボード入力や表計算、株式投資などをこなして出世を目指します。"
+        },
+        {
+          "question": "Worming from Homeはどのプラットフォームで遊べますか？",
+          "answer": "SteamにてPC（WindowsおよびmacOS）向けに配信されています。"
+        },
+        {
+          "question": "Worming from Homeに使える引き換えコードはありますか？",
+          "answer": "現在コード引き換えシステムは実装されておらず、すべてのデスク装飾やアップグレードはゲーム内の通常プレイで解放されます。"
+        },
+        {
+          "question": "ゲーム内でSランク評価を取るにはどうすればいいですか？",
+          "answer": "入力ミスをゼロに抑えて素早くタスクを完了し、上司の電話に即応して定時までに退勤することがS評価の条件です。"
+        },
+        {
+          "question": "Worming from Homeにはいくつの実績がありますか？",
+          "answer": "役職昇進、株式利益、ハイスコアクリア、机の上の隠し要素など、全31個のSteam実績が用意されています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "在宅勤務のプロミミズを目指しませんか？",
+      "description": "初日の業務から株式投資、全実績解除まで、ファンWikiの無料攻略ガイドがあなたのキャリアをサポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日時",
+    "viewAllCodes": "すべてのコードを見る",
+    "inThisSection": "このセクションの記事",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "おすすめ記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在公開されているガイドはありません。更新をお待ちください！",
+    "playOnSteam": "Steamでプレイ"
+  },
+  "footer": {
+    "aboutTitle": "Worming from Home Wiki",
+    "about": "Worming from Home Wikiは、操作方法、オフィス業務のコツ、デスクアップグレード、株式投資、Steam実績を網羅した非公式ファン攻略サイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Worming from Home Wiki. Zach NorthropおよびMason Sabharwalとは提携していません。",
+    "description": "Steamで配信中の爆笑ラグドール物理オフィスシミュレーター。操作を極め、タスクをこなして実績を解除しよう。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "公式プレスキット",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "操作方法",
+    "bossGuides": "オフィス業務",
+    "buildGuide": "強化＆株式",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Worming from Home 攻略ガイド＆手順",
+    "overviewDescription": "初心者向けチュートリアルから上級テクニックまで、操作方法やオフィス業務のコツを分かりやすく解説。"
+  },
+  "release": {
+    "overviewTitle": "Worming from Home リリース＆更新情報",
+    "overviewDescription": "発売日、体験版デモ、バージョンアップデート、最新ニュースなどゲームの公式動向をお届け。"
+  },
+  "achievements": {
+    "overviewTitle": "Worming from Home 実績攻略ガイド",
+    "overviewDescription": "全31個のSteam実績の解除手順と100%コンプリートのためのヒントを詳しく網羅。"
+  },
+  "scores": {
+    "overviewTitle": "Worming from Home スコア＆業務評価",
+    "overviewDescription": "Sランク業務評価の獲得条件、ハイスコアの出し方、スピードラン記録達成のコツ。"
+  },
+  "mechanics": {
+    "overviewTitle": "Worming from Home ゲーム仕様＆メカニクス",
+    "overviewDescription": "リモートワーク業務の仕組み、表計算マルチタスク、ビデオ通話対応、デスク物理演算の深掘り解説。"
+  },
+  "reviews": {
+    "overviewTitle": "Worming from Home レビュー＆プレイヤー評価",
+    "overviewDescription": "プレイヤーの感想、ゲームの見どころ、コメディ要素の魅力、各種レビューまとめ。"
+  },
+  "community": {
+    "overviewTitle": "Worming from Home コミュニティ＆隠し要素",
+    "overviewDescription": "Redditやコミュニティで話題のテクニック、イースターエッグ、机の上の秘密の発見要素。"
+  }
+}

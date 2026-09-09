@@ -1,1 +1,457 @@
-{}
+{
+  "site": {
+    "name": "Worming from Home Wiki",
+    "shortName": "Worming from Home",
+    "tagline": "Guías, Logros, Controles y Mejoras",
+    "description": "Explora Worming from Home con guías para principiantes, controles, consejos de tareas, mejoras, logros, mecánicas de juego y las últimas novedades en Steam.",
+    "legalNotice": "Wiki no oficial de fans. Creado por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guías",
+    "release": "Lanzamiento",
+    "achievements": "Logros",
+    "scores": "Puntuaciones",
+    "mechanics": "Mecánicas",
+    "reviews": "Reseñas",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Worming from Home Wiki — Guías, Logros y Consejos",
+      "description": "Explora Worming from Home con guías para principiantes, controles, consejos de tareas, mejoras, logros, mecánicas de juego y las últimas novedades en Steam."
+    },
+    "hero": {
+      "eyebrow": "Divertido simulador de teletrabajo con físicas ragdoll",
+      "title": "Worming from Home Wiki",
+      "description": "Juega como una lombriz teletrabajando: completa tareas de oficina, domina la física ragdoll, invierte en la bolsa, desbloquea mejoras y asciende en la empresa.",
+      "stats": [
+        "444 Reseñas de usuarios",
+        "98% Reseñas positivas",
+        "31 Logros de Steam",
+        "4 de sep. de 2026 Fecha de lanzamiento"
+      ],
+      "primaryCta": "Guía de principiantes",
+      "secondaryCta": "Guías del juego",
+      "tertiaryCta": "Jugar en Steam",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Worming from Home",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía de principiantes",
+          "description": "Domina tu primer día en el escritorio con consejos esenciales sobre físicas ragdoll, navegación por el teclado y tareas iniciales de oficina."
+        },
+        {
+          "number": "2",
+          "title": "Controles y física",
+          "description": "Aprende a deslizar tu escurridiza lombriz por el escritorio, pulsar teclas con precisión y controlar físicas impredecibles."
+        },
+        {
+          "number": "3",
+          "title": "Tareas y rutina laboral",
+          "description": "Gestiona hojas de cálculo, atiende llamadas urgentes de tu jefe y archiva documentos antes de que acabe tu jornada."
+        },
+        {
+          "number": "4",
+          "title": "Ascensos y mejoras",
+          "description": "Invierte tu salario en mejoras para el escritorio, decora tu espacio y escala en el organigrama empresarial."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías y referencias destacadas",
+      "quickLinks": [
+        "Guía de principiantes",
+        "Controles y movimiento",
+        "Tareas y hojas de cálculo",
+        "Logros de Steam"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía de principiantes",
+          "description": "Consejos clave para sobrevivir a tu primer turno de teletrabajo, controlar a la lombriz y completar encargos diarios.",
+          "href": "/guide/worming-from-home-beginner-guide"
+        },
+        {
+          "badge": "Controles",
+          "title": "Controles y movimiento",
+          "description": "Desglose completo de físicas ragdoll, navegación con teclado y técnicas de interacción con ratón.",
+          "href": "/guide/worming-from-home-controls-guide"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Guía de tareas de oficina",
+          "description": "Estrategias paso a paso para rellenar tablas de cálculo, responder al jefe y organizar papeleo.",
+          "href": "/mechanics/worming-from-home-tasks-guide"
+        },
+        {
+          "badge": "Progreso",
+          "title": "Guía de ascensos",
+          "description": "Cómo subir de rango corporativo, desbloquear mejoras de escritorio y alcanzar el estatus de ejecutivo.",
+          "href": "/mechanics/worming-from-home-promotion-guide"
+        },
+        {
+          "badge": "Logros",
+          "title": "Lista de logros de Steam",
+          "description": "Guía completa para desbloquear los 31 logros de Steam y descubrir secretos ocultos del escritorio.",
+          "href": "/achievements/worming-from-home-achievements-guide"
+        },
+        {
+          "badge": "Actualizaciones",
+          "title": "Notas de parche y noticias",
+          "description": "Sigue los parches recientes, ajustes de equilibrio y anuncios oficiales de la comunidad.",
+          "href": "/release/worming-from-home-updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Worming from Home?",
+      "paragraphs": [
+        "Worming from Home es un disparatado simulador de comedia con físicas creado por Zach Northrop y Mason Sabharwal. Ponte en el cuerpo de una lombriz de tierra que teletrabaja sorteando la rutina corporativa en un escritorio caótico. Révuelcate sobre teclados, redacta correos urgentes, lidia con complejas hojas de cálculo y atiende videollamadas con impredecibles físicas ragdoll.",
+        "Más allá de las tareas habituales de oficina, el juego cuenta con un mercado bursátil dinámico para invertir tus sueldos, decenas de accesorios y mejoras cosméticas para el escritorio, y 31 logros de Steam. Tanto si quieres llegar a la directiva como si prefieres desatar el caos en el escritorio, nuestra wiki te ofrece guías completas, estrategias y desgloses de controles."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Zach Northrop y Mason Sabharwal"
+        },
+        {
+          "label": "Distribuidor",
+          "value": "Zach Northrop"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam / Windows / macOS)"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "4 de sep. de 2026"
+        },
+        {
+          "label": "Valoración en Steam",
+          "value": "98% Positiva"
+        },
+        {
+          "label": "Logros",
+          "value": "31 Logros de Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de físicas y comedia"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Worming from Home Wiki",
+      "description": "Domina tu rutina de teletrabajo con guías de inicio detalladas, desgloses de controles, consejos de tareas, progresión profesional y guías de logros completas.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Worming from Home Beginner Guide",
+          "description": "Cubre las primeras horas de juego, controles básicos, el ciclo laboral y las prioridades para recién llegados. Pasos prácticos para completar tareas tempranas y evitar errores comunes.",
+          "href": "/guide/worming-from-home-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Calibra tu movimiento ragdoll y acostúmbrate a deslizar a la lombriz por la superficie del escritorio."
+            },
+            {
+              "label": "2",
+              "detail": "Inicia sesión en tu estación de trabajo y revisa la bandeja de correo y los encargos matutinos."
+            },
+            {
+              "label": "3",
+              "detail": "Golpea teclas con el cuerpo para rellenar tablas, archivar informes y procesar facturas."
+            },
+            {
+              "label": "4",
+              "detail": "Silencia videollamadas, evita distracciones corporativas y ficha antes de las 17:00."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Worming from Home Tasks Guide",
+          "description": "Explica las principales actividades laborales del juego: hojas de cálculo, mensajes, llamadas y otras interacciones con objetivos claros y consejos prácticos.",
+          "href": "/mechanics/worming-from-home-tasks-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "HojasCalculo",
+              "detail": "Avanza fila por fila introduciendo datos clave mediante cabezazos precisos al teclado."
+            },
+            {
+              "label": "Videollamadas",
+              "detail": "Contesta al jefe de inmediato y activa o silencia el micrófono a tiempo."
+            },
+            {
+              "label": "Correos",
+              "detail": "Escribe respuestas rápidas a compañeros de oficina y despacha hilos de alta prioridad."
+            },
+            {
+              "label": "Facturación",
+              "detail": "Sella documentos de pago autorizados y clasifica el papeleo antes del cierre de turno."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Worming from Home Controls Guide",
+          "description": "Referencia rápida de desplazamiento, interacción con teclado, controles de cámara, clics y mando para encarar tareas con límite de tiempo.",
+          "href": "/guide/worming-from-home-controls-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Serpenteo",
+              "detail": "Usa WASD o el stick izquierdo para serpentear hacia adelante, girar y ganar velocidad."
+            },
+            {
+              "label": "Escritura",
+              "detail": "Coloca la cabeza o cuerpo de tu lombriz sobre las teclas para pulsar letras y números con exactitud."
+            },
+            {
+              "label": "Clics",
+              "detail": "Arrastra y pulsa con el cursor para abrir programas, silenciar micrófonos e interactuar con pestañas."
+            },
+            {
+              "label": "Cámara",
+              "detail": "Ajusta la perspectiva para vigilar relojes de cuenta atrás, notas adhesivas y bordes de la mesa."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Worming from Home Promotion Guide",
+          "description": "Explica el funcionamiento del ascenso laboral y en qué concentrarse para avanzar en la jerarquía corporativa con máxima eficiencia.",
+          "href": "/mechanics/worming-from-home-promotion-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Mantén un rendimiento diario estable y evita atrasarte con tareas en las primeras semanas."
+            },
+            {
+              "label": "2",
+              "detail": "Invierte tus ahorros en ergonomía, teclados más veloces y accesorios de productividad."
+            },
+            {
+              "label": "3",
+              "detail": "Opera en la bolsa en momentos libres para acumular capital y adquirir equipo avanzado."
+            },
+            {
+              "label": "4",
+              "detail": "Alcanza objetivos clave de rendimiento para desbloquear ascensos senior y ventajas de ejecutivo."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Worming from Home Achievements Guide",
+          "description": "Organiza todos los logros en una lista fácil de consultar con metas de progresión y desafíos, indicando logros fáciles de pasar por alto.",
+          "href": "/achievements/worming-from-home-achievements-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Empleado Estrella: Consigue calificación S en todas las jornadas y descubre cada secreto del escritorio."
+            },
+            {
+              "label": "A",
+              "detail": "Magnate Bursátil: Invierte con éxito en acciones de alto rendimiento para financiar renovaciones de lujo."
+            },
+            {
+              "label": "B",
+              "detail": "Trabajador Dedicado: Completa 5 turnos seguidos sin recibir reprimendas ni avisos de tu jefe."
+            },
+            {
+              "label": "C",
+              "detail": "Primer Día: Inicia sesión y concluye con éxito tu turno inaugural de teletrabajo."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Worming from Home Updates",
+          "description": "Seguimiento de anuncios de lanzamiento, parches, ajustes de equilibrio, correcciones y recompensas nuevas en un registro de cambios conciso.",
+          "href": "/release/worming-from-home-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "Versión 1.0 oficial en Steam el 4 de septiembre de 2026 con 31 logros y compatibilidad total con mandos."
+            },
+            {
+              "label": "Parche",
+              "detail": "Corrección de estabilidad en físicas que mejora la detección de impacto en teclas y colisiones."
+            },
+            {
+              "label": "Calidad",
+              "detail": "Opciones mejoradas de escala de interfaz, controles deslizantes de audio y sensibilidad de ratón."
+            },
+            {
+              "label": "HojaRuta",
+              "detail": "Próximas actualizaciones con nuevos minijuegos y personalizaciones ampliadas de escritorio."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Worming from Home Codes",
+          "description": "Responde con claridad a las búsquedas de códigos: el juego en Steam no utiliza sistema de canje de códigos promocionales, todas las mejoras se obtienen jugando.",
+          "href": "/codes/worming-from-home-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SIN-CODIGOS",
+              "detail": "El juego en Steam no tiene códigos promocionales; todas las mejoras se desbloquean jugando.",
+              "badge": "Verificado"
+            },
+            {
+              "label": "EVITA-ESTAFAS",
+              "detail": "No introduzcas credenciales de Steam en sitios de terceros no autorizados que prometan códigos.",
+              "badge": "Seguridad"
+            },
+            {
+              "label": "FUTURO",
+              "detail": "Sigue el Discord oficial y anuncios de los desarrolladores para posibles eventos comunitarios.",
+              "badge": "Info"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Worming from Home Gameplay Tips",
+          "description": "Estrategias prácticas para dominar las físicas ragdoll, priorizar tareas laborales, aprovechar mejoras y afrontar desafíos secundarios.",
+          "href": "/guide/worming-from-home-gameplay-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Impulso",
+              "detail": "Mantén un ritmo de serpenteo uniforme en lugar de sacudidas descontroladas para ganar precisión."
+            },
+            {
+              "label": "Prioridad",
+              "detail": "Atiende llamadas del jefe de inmediato para evitar deducciones graves de puntuación y agobios."
+            },
+            {
+              "label": "Inversión",
+              "detail": "Aprovecha caídas en acciones tecnológicas en el monitor para hacer crecer tus fondos de reserva."
+            },
+            {
+              "label": "Espacio",
+              "detail": "Despeja objetos y desorden cerca del teclado para asegurar libertad total de movimiento."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las dudas más habituales sobre Worming from Home.",
+      "items": [
+        {
+          "question": "¿Qué es Worming from Home?",
+          "answer": "Worming from Home es un simulador cómico con físicas ragdoll desarrollado por Zach Northrop y Mason Sabharwal en el que controlas a una lombriz teletrabajando, gestionando tareas, invirtiendo en bolsa y ascendiendo en la empresa."
+        },
+        {
+          "question": "¿En qué plataformas está disponible Worming from Home?",
+          "answer": "Worming from Home está disponible en PC para Windows y macOS a través de su lanzamiento oficial en Steam."
+        },
+        {
+          "question": "¿Hay códigos promocionales activos para Worming from Home?",
+          "answer": "Actualmente, Worming from Home no cuenta con sistema de canje de códigos, ya que todas las mejoras, cosméticos y personalizaciones se desbloquean directamente jugando."
+        },
+        {
+          "question": "¿Cómo se consigue la calificación S en Worming from Home?",
+          "answer": "Para obtener una calificación S, completa tareas a máxima velocidad sin erratas, atiende las videollamadas con rapidez y ficha la salida antes de que termine tu jornada."
+        },
+        {
+          "question": "¿Cuántos logros tiene Worming from Home?",
+          "answer": "Worming from Home cuenta con 31 logros de Steam relacionados con ascensos, beneficios bursátiles, turnos de alta puntuación y secretos escondidos en el escritorio."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Worming from Home?",
+      "description": "Desde tus primeros encargos de oficina hasta inversiones bursátiles y logros de ascenso, nuestra wiki de fans te acompaña con guías gratuitas.",
+      "primary": "Leer la guía de principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas recomendadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "playOnSteam": "Jugar en Steam"
+  },
+  "footer": {
+    "aboutTitle": "Worming from Home Wiki",
+    "about": "Worming from Home Wiki es un centro independiente de guías creado por fans que cubre controles, consejos de tareas, mejoras de escritorio, estrategias de bolsa y logros.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Aviso legal",
+    "copyright": "2026 Worming from Home Wiki. Sin vinculación oficial con Zach Northrop ni Mason Sabharwal.",
+    "description": "Simulador cómico de oficina con físicas ragdoll en Steam. Domina controles, completa tareas y desbloquea logros.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Kit de prensa oficial",
+    "beginnerGuide": "Guía de principiantes",
+    "raceGuides": "Controles del juego",
+    "bossGuides": "Tareas de oficina",
+    "buildGuide": "Mejoras y bolsa",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y tutoriales de Worming from Home",
+    "overviewDescription": "Domina controles, mecánicas de trabajo y secretos de oficina en Worming from Home con guías para principiantes y consejos avanzados."
+  },
+  "release": {
+    "overviewTitle": "Información de lanzamiento de Worming from Home",
+    "overviewDescription": "Mantente informado sobre fechas de lanzamiento, versiones de demostración, actualizaciones del juego y novedades oficiales."
+  },
+  "achievements": {
+    "overviewTitle": "Guía de logros de Worming from Home",
+    "overviewDescription": "Guía exhaustiva para desbloquear todos los logros de Steam y completar al 100% las metas en Worming from Home."
+  },
+  "scores": {
+    "overviewTitle": "Puntuaciones y calificaciones de Worming from Home",
+    "overviewDescription": "Estrategias para obtener evaluaciones de rango S, puntuaciones récord y tiempos de speedrun en Worming from Home."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Worming from Home",
+    "overviewDescription": "Análisis en profundidad del teletrabajo, tablas multitarea, supervivencia en videollamadas y físicas de escritorio."
+  },
+  "reviews": {
+    "overviewTitle": "Reseñas e impresiones de Worming from Home",
+    "overviewDescription": "Opiniones de jugadores, momentos divertidos, análisis de mecánicas y recopilación de críticas de Worming from Home."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y secretos de Worming from Home",
+    "overviewDescription": "Descubre debates de la comunidad, consejos de Reddit, huevos de pascua ocultos y hallazgos secretos en Worming from Home."
+  }
+}
