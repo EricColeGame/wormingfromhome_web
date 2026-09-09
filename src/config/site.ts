@@ -18,17 +18,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Worming from Home Wiki",
+  shortName: "Worming from Home",
+  logoText: "WFH",
+  tagline: "Guides, Achievements, Controls & Upgrades",
+  description: "Explore Worming from Home with beginner guides, controls, task tips, upgrades, achievements, gameplay mechanics, and the latest Steam details.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://wormingfromhome.top",
+  gameUrl: "https://store.steampowered.com/app/3547270/Worming_from_Home/",
+  heroVideoId: "Kf9tZoVLPk4", // Worming from Home Official Launch / Announcement Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/K3xFTRFrcY",
+    youtube: "https://www.youtube.com/@WormingFromHome",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
