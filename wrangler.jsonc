@@ -9,10 +9,6 @@
     {
       "pattern": "www.wormingfromhome.top",
       "custom_domain": true
-    },
-    {
-      "pattern": "wormingfromhome.top",
-      "custom_domain": true
     }
   ]
 }
