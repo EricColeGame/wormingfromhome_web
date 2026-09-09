@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Worming from Home Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Worming from Home guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Worming from Home Wiki — Guides, Achievements & Tips",
+      "description": "Explore Worming from Home with beginner guides, controls, task tips, upgrades, achievements, gameplay mechanics, and the latest Steam details."
     },
     "hero": {
       "eyebrow": "Funny Ragdoll Remote Work Simulator",
@@ -39,260 +39,311 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master your first day at the home desk with essential tips for ragdoll physics, keyboard navigation, and early workday tasks."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Controls & Physics",
+          "description": "Learn how to steer your wiggly worm across the desk, hit keyboard keys accurately, and manage tricky physics interactions."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Office Tasks & Routine",
+          "description": "Handle spreadsheets, urgent boss calls, and daily paperwork efficiently before the office clock runs out."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Worming from Home."
+          "title": "Promotion & Upgrades",
+          "description": "Invest your hard-earned wages in desk upgrades, decorate your space, and climb the corporate ladder to top worm."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Guides & References",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Controls & Movement",
+        "Tasks & Spreadsheets",
+        "Steam Achievements"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Essential tips for surviving your first remote work shift, controlling your worm, and completing daily assignments.",
+          "href": "/guide/worming-from-home-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Controls",
+          "title": "Controls & Movement",
+          "description": "Complete breakdown of ragdoll physics, keyboard navigation, and mouse interaction techniques.",
+          "href": "/guide/worming-from-home-controls-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Workday Tasks Guide",
+          "description": "Step-by-step strategies for handling spreadsheets, answering boss calls, and filing paperwork.",
+          "href": "/mechanics/worming-from-home-tasks-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Progression",
+          "title": "Promotion Guide",
+          "description": "How to climb the corporate ladder, unlock desk upgrades, and achieve executive status.",
+          "href": "/mechanics/worming-from-home-promotion-guide"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Achievements",
+          "title": "Steam Achievements Checklist",
+          "description": "Full walkthrough for unlocking all 31 Steam achievements and finding hidden desk secrets.",
+          "href": "/achievements/worming-from-home-achievements-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Updates",
+          "title": "Patch Notes & Release News",
+          "description": "Keep track of recent patches, balance tweaks, and community announcements.",
+          "href": "/release/worming-from-home-updates"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Worming from Home?",
       "paragraphs": [
-        "Worming from Home is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Worming from Home is a hilarious physics-based comedy simulator created by Zach Northrop and Mason Sabharwal. Step into the tiny shoes (or rather, squirmy body) of a remote-working earthworm navigating the daily corporate grind from a chaotic home desk. Slither across keyboards, type out urgent emails, tackle complex spreadsheets, and answer demanding video calls using unpredictable ragdoll physics.",
+        "Beyond daily office chores, the game features a dynamic stock market to invest your wages, dozens of desk accessories and cosmetic upgrades to unlock, and 31 Steam achievements to chase. Whether you aim to climb the corporate ladder to executive status or just want to cause desktop mayhem, our wiki provides complete guides, task strategies, and controls breakdowns."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Zach Northrop & Mason Sabharwal"
+        },
+        {
+          "label": "Publisher",
+          "value": "Zach Northrop"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam / Windows / macOS)"
+        },
+        {
+          "label": "Release Date",
+          "value": "Sep 4, 2026"
+        },
+        {
+          "label": "Steam Rating",
+          "value": "98% Positive"
+        },
+        {
+          "label": "Achievements",
+          "value": "31 Steam Achievements"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
-        },
-        {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "value": "Comedy Physics Simulator"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Worming from Home Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master your remote office routine with comprehensive beginner guides, controls breakdowns, task tips, career progression, and complete achievement walkthroughs.",
       "modules": [
         {
           "order": 1,
-          "name": "Worming from Home Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Worming from Home Beginner Guide",
+          "description": "Cover the first-hour experience, basic controls, the workday loop, and what new players should prioritize. Focus on practical steps for completing early office tasks and avoiding common mistakes.",
+          "href": "/guide/worming-from-home-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Calibrate your ragdoll movement and get comfortable steering the worm across the desk surface."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Log into your office workstation and check your daily email queue and morning assignments."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Type on keyboard keys to fill out spreadsheets, file reports, and process invoices."
+            },
+            {
+              "label": "4",
+              "detail": "Mute video calls, balance company distractions, and clock out cleanly before 5 PM."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Worming from Home Tasks Guide",
+          "description": "Explain the major work activities players encounter, including spreadsheets, messages, calls, and other office interactions. Provide concise task objectives and practical completion tips.",
+          "href": "/mechanics/worming-from-home-tasks-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Spreadsheets",
+              "detail": "Navigate row by row and punch in required cell data using precise keyboard headbutts."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "VideoCalls",
+              "detail": "Answer incoming boss calls promptly while toggling your microphone to stay off mute."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Emails",
+              "detail": "Draft quick responses to corporate colleagues and dispatch priority inbox threads."
+            },
+            {
+              "label": "Invoicing",
+              "detail": "Stamp approved payment documents and sort office paperwork before shift deadlines."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Worming from Home Controls Guide",
+          "description": "Give players a quick reference for movement, keyboard interaction, camera controls, clicking, and controller play. This section should make the physics-based controls easier to understand before players start tackling timed tasks.",
+          "href": "/guide/worming-from-home-controls-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Wiggling",
+              "detail": "Use WASD or left stick to squirm forward, steer turns, and gain crawling momentum."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Typing",
+              "detail": "Position your worm's head or body over keys to strike letters and numbers accurately."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Clicking",
+              "detail": "Drag and tap your mouse cursor to launch programs, mute microphones, and open tabs."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Camera",
+              "detail": "Rotate viewing angles to keep track of clock timers, sticky notes, and desk edges."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Worming from Home Promotion Guide",
+          "description": "Explain how the career progression works and what players should focus on to advance through the corporate ladder. Highlight useful priorities for completing work efficiently and progressing toward later career milestones.",
+          "href": "/mechanics/worming-from-home-promotion-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Maintain consistent daily output and avoid task backlogs during early work weeks."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Invest savings into ergonomics, faster keyboards, and productivity desk items."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Trade stocks on the side to build capital and fund advanced desk equipment."
+            },
+            {
+              "label": "4",
+              "detail": "Hit key performance milestones to unlock senior promotions and executive perks."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Worming from Home Achievements Guide",
+          "description": "Organize the game's achievements into an easy-to-scan checklist, including progression-related and challenge-oriented goals. Add brief unlock requirements and indicate achievements that may be easy to miss.",
+          "href": "/achievements/worming-from-home-achievements-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Executive Overachiever: Attain S rank ratings across all workdays and collect every hidden desk secret."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Market Tycoon: Successfully trade high-yield stocks to fund every luxury office renovation."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Dedicated Employee: Complete 5 consecutive work shifts without incurring boss reprimands."
+            },
+            {
+              "label": "C",
+              "detail": "First Day at Work: Successfully log in and clock out of your inaugural remote office shift."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Worming from Home Updates",
+          "description": "Track official launch announcements, patches, balance changes, fixes, and newly added rewards or content. This module can serve as a compact changelog so returning players can quickly see what changed.",
+          "href": "/release/worming-from-home-updates",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Launch",
+              "detail": "Official 1.0 Steam release on Sep 4, 2026 with 31 achievements and full controller support."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Patch",
+              "detail": "Physics stability hotfix improving keyboard hit detection and desk collision boundaries."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "QoL",
+              "detail": "Enhanced UI scaling options, audio balance sliders, and mouse sensitivity tuning."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Upcoming content updates exploring additional mini-games and expanded desk customizations."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Worming from Home Codes",
+          "description": "Address searches for Worming from Home codes directly and clearly state the current redemption-code status. If no official code system exists, explain that there are no verified codes rather than publishing unconfirmed codes.",
+          "href": "/codes/worming-from-home-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "NO-ACTIVE-CODES",
+              "detail": "Steam release does not feature promo redemption codes; all upgrades are earned via gameplay.",
+              "badge": "Verified"
+            },
+            {
+              "label": "BEWARE-SCAMS",
+              "detail": "Do not enter Steam credentials on unverified third-party generator websites.",
+              "badge": "Security"
+            },
+            {
+              "label": "FUTURE-UPDATES",
+              "detail": "Follow official Discord and developer announcements for potential event drops.",
+              "badge": "Info"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Worming from Home Gameplay Tips",
+          "description": "Collect concise strategies for handling the ragdoll physics, managing workday priorities, using upgrades effectively, and approaching optional content. Keep the section focused on actionable tips rather than generic game information.",
+          "href": "/guide/worming-from-home-gameplay-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Momentum",
+              "detail": "Use steady wiggling cadences rather than erratic thrashing to maintain typing accuracy."
+            },
+            {
+              "label": "Priorities",
+              "detail": "Handle ringing boss calls immediately to prevent severe score deductions and panic."
+            },
+            {
+              "label": "Investing",
+              "detail": "Keep an eye on tech stock price dips on your desktop monitor to grow your cash reserves."
+            },
+            {
+              "label": "Environment",
+              "detail": "Clear stray desk clutter away from the keyboard space to ensure unobstructed movement."
             }
           ]
         }
@@ -304,23 +355,23 @@
       "items": [
         {
           "question": "What is Worming from Home?",
-          "answer": "Worming from Home is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Worming from Home is a comedic ragdoll physics simulator developed by Zach Northrop and Mason Sabharwal, where players control a remote-working worm managing office tasks, typing on keyboards, investing in stocks, and climbing the corporate ladder."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms can you play Worming from Home on?",
+          "answer": "Worming from Home is available on PC for Windows and macOS via the official Steam release."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there any active codes for Worming from Home?",
+          "answer": "Currently, Worming from Home does not have a code redemption system, as all upgrades, cosmetics, and desk customizations are unlocked directly through in-game gameplay and earnings."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you achieve an S grade in Worming from Home?",
+          "answer": "To get an S grade in Worming from Home, complete daily tasks with high speed and zero typing errors, answer video calls promptly, and clock out before the workday deadline."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How many achievements does Worming from Home have?",
+          "answer": "Worming from Home features 31 Steam achievements covering career promotions, stock market gains, high-score workday shifts, and hidden desktop secrets."
         }
       ]
     },
@@ -337,7 +388,6 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -347,7 +397,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "playOnSteam": "Play on Steam"
   },
   "footer": {
     "aboutTitle": "Worming from Home Wiki",
