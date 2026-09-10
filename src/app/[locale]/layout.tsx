@@ -49,6 +49,8 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const gaId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
+  const clarityId = process.env.NEXT_PUBLIC_MICROSOFT_CLARITY_ID;
 
   return (
     <html lang={locale} className={`${inter.variable}`} suppressHydrationWarning>
