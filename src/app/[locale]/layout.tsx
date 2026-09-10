@@ -21,7 +21,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
-  const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID || "ca-pub-6484950491387396";
   const gaId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
   const clarityId = process.env.NEXT_PUBLIC_MICROSOFT_CLARITY_ID;
   return {
@@ -48,7 +48,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     image: `${siteUrl}/images/hero.webp`,
   };
 
-  const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID || "ca-pub-6484950491387396";
   const gaId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
   const clarityId = process.env.NEXT_PUBLIC_MICROSOFT_CLARITY_ID;
 
